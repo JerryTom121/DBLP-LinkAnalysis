@@ -3,7 +3,8 @@ import sqlite3
 import time
 import cPickle
 from util import *
-
+import sklearn
+import numpy as np
 
 
 #Create Table
